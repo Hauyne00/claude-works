@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+debug_log.txt
+nul
+nccmw4f150printsw2511170fja/
+/claude-code-book-template/
+.claude/
